@@ -107,7 +107,7 @@ position 속성
 
 ## <a href="https://google.com">GOOGLE</a>
 
-<img width="70" src="깃허브 프로필.png" alt="깃허브프로필" />
+<img width="80" src="깃허브 프로필.png" alt="깃허브프로필" />
 
 
 # 수평선(Horizontal Rule)
